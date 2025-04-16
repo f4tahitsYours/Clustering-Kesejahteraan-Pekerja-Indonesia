@@ -51,10 +51,9 @@ clustering-kesejahteraan-pekerja-indonesia/
 │   ├── pengeluaran.csv
 │   ├── rataRataUpah.csv
 │   └── Dataset_clustering.csv (hasil penggabungan)
-├── notebooks/
-│   └── clustering_analysis.ipynb (analisis utama)
+├── clustering_analysis.ipynb (analisis utama)
+│  
 ├── results/
-│   ├── visualizations/ (berisi plot dan grafik)
 │   └── Dataset_inisiasi.csv (hasil akhir dengan label cluster)
 └── README.md
 ```
