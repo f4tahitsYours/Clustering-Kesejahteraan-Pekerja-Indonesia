@@ -63,7 +63,7 @@ clustering-kesejahteraan-pekerja-indonesia/
 
 1. Clone repositori ini
    ```bash
-   git clone https://github.com/username/clustering-kesejahteraan-pekerja-indonesia.git
+   git clone https://github.com/f4tahitsYours/clustering-kesejahteraan-pekerja-indonesia.git
    cd clustering-kesejahteraan-pekerja-indonesia
    ```
 
@@ -92,4 +92,4 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 Untuk pertanyaan atau kolaborasi, silakan hubungi:
 
-[Sultan Fatahillah] - [adjikp76@gmail.com]
+[Sultan Fatahillah] - [adjikp76@gmail.com] - [@f4tahitsYours]
